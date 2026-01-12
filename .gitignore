@@ -37,4 +37,7 @@ config.yml
 cloudflared.exe
 *.log
 .svn/
+.env
+**/__pycache__/
+**/uploads/
 
